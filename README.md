@@ -1,1 +1,1 @@
-# Fitzo App
+# Fitness App
